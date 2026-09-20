@@ -36,6 +36,7 @@ Quy trình thực hiện được khái quát qua 5 bước:
 **Bước 2:** Truy cập chức năng thu, nộp đảng phí.
 
 **Bước 3:** Lựa chọn kê khai đảng phí cho bản thân.
+![Hình ảnh giao diện kê khai đảng phí cho bản thân](ke-khai-dang-phi.png)
 
 **Bước 4:** Kiểm tra và hoàn thiện thông tin kê khai.
 
