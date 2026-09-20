@@ -59,19 +59,12 @@ Việc thực hiện các thao tác nghiệp vụ phải tuân thủ hướng d�
 
 ---
 
-## THÔNG TIN ĐỒ ÁN
+- **Sinh viên thực hiện:** Lô Thị Thái
+- **Link website hoạt động:** https://lothithai.github.io/cam-nang-nop-dang-phi-dien-tu/
 
-**Tên đề tài:** Xây dựng website hướng dẫn nộp đảng phí trên môi trường điện tử.
+## Bài toán giải quyết
 
-**Sinh viên thực hiện:** Lô Thị Thái.
-
-**Đơn vị công tác:** Văn phòng Đảng ủy xã Na Ngoi, tỉnh Nghệ An.
-
-**Học phần:** Nhập môn Công nghệ thông tin.
-
-**Trường:** Đại học Vinh.
-
-**Năm thực hiện:** 2026.
+Xây dựng cẩm nang số hướng dẫn đảng viên thực hiện kê khai, thu, nộp và tra cứu đảng phí trên môi trường điện tử, góp phần hỗ trợ chuyển đổi số trong công tác Đảng tại xã Na Ngoi, tỉnh Nghệ An.
 
 ---
 
