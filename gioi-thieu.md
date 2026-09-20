@@ -24,6 +24,8 @@ Website cung cấp các nội dung hướng dẫn chính:
 
 ## 3. ĐỐI TƯỢNG SỬ DỤNG
 
-- Đảng viên có nhu cầu tìm hiểu quy trình nộp đảng phí điện tử.
-- Cán bộ phụ trách công tác thu, nộp đảng phí tại các chi bộ.
-- Người được giao hướng dẫn, hỗ trợ đảng viên sử dụng hệ thống.
+### 3.1. Đảng viên có nhu cầu tìm hiểu quy trình nộp đảng phí điện tử
+
+### 3.2. Cán bộ phụ trách công tác thu, nộp đảng phí tại các chi bộ
+
+### 3.3. Người được giao hướng dẫn, hỗ trợ đảng viên sử dụng hệ thống
