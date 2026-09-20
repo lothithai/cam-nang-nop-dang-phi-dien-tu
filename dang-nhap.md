@@ -24,7 +24,7 @@ Truy cập đường dẫn chính thức:
 
 Sau khi truy cập thành công, màn hình hiển thị trang chủ Hệ thống thông tin giải quyết thủ tục hành chính của Đảng.
 
-![Giao diện trang chủ Hệ thống thông tin giải quyết thủ tục hành chính của Đảng](images/giao-dien-dang-nhap.png)
+![Giao diện trang chủ Hệ thống thông tin giải quyết thủ tục hành chính của Đảng](giao-dien-dang-nhap.png)
 
 *Hình 1. Giao diện trang chủ Hệ thống thông tin giải quyết thủ tục hành chính của Đảng.*
 
